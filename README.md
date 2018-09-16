@@ -1,6 +1,6 @@
 # Secretary Rule: Gallery at Top
 
-This plugin adds a new rule to the Secretary plugin, which forces the first element in a post to be a gallery (required for studentmunch.com):
+This plugin adds a new rule to the [Secretary WordPress plugin](https://github.com/chrisbashton/secretary), which forces the first element in a post to be a gallery (required for studentmunch.com):
 
 ```yaml
 gallery-at-top:
